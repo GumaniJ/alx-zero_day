@@ -1,1 +1,1 @@
-My first readme
+We learn new things everyday!
